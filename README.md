@@ -28,7 +28,7 @@ The **mA (mean accuracy)** is chosen as the key metric because it provides a bal
   Implements a relation-aware model, which incorporates relationships between 34 labels to predict the 35th labels. This model can then be used to improve the final accuracy by combining to the pipeline.
 
 - **peta_single_train.py**  
-  Trains a model to classify individual attributes separately, handling one attribute classification at a time. Data preprocessing, such as augmentation and removal similar samples with opposite labels are done here.
+  Trains a model to classify individual attributes separately, handling one attribute classification at a time. Data preprocessing, such as augmentation and removal of similar samples with opposite labels are done here.
 
 - **peta_train.py**  
   The main training script that trains the model on all 35 attributes.
