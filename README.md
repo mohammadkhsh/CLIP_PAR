@@ -1,6 +1,6 @@
 # Pedestrian Attribute Recognition with CLIP on PETA Dataset
 
-![PETA Dataset]([relative/path/to/image.png](https://mmlab.ie.cuhk.edu.hk/projects/PETA_files/pie.png))
+![PETA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/PETA_files/pie.png))
 
 This project aims to achieve **pedestrian attribute recognition** on the **PETA dataset** using a **CLIP-based image encoder** as the backbone. The dataset contains 35 selected attributes, and the challenge lies in handling **class imbalance**—where some attributes have significantly fewer positive samples—resulting in lower recall and decreased **mean accuracy (mA)**. The goal is to surpass the current state-of-the-art mA of **89.89%**. The current best mA achieved is **88.3%**.
 
