@@ -3,7 +3,7 @@
 ![PETA Dataset](pie_peta.png)
 
 
-### $${\color{Notice}Red}$$	: 
+### $${\color{red}Notice}$$	: 
 
 This project is currently in progress, and a new paper is being developed based on this work. As such, all content in this repository is confidential and should not be shared or distributed without prior authorization.
 
